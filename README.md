@@ -12,7 +12,7 @@ into `main`.
 | Role | Student | Student ID | Feature branch |
 |------|---------|-----------|----------------|
 | Student 1 | Li Daotong | 20243006983 | `feature-red-button` |
-| Student 2 | _<group partner>_ | _<id>_ | `feature-green-button` |
+| Student 2 | _<Liu Linrui>_ | _<20243006995>_ | `feature-green-button` |
 
 Both students work on **this same repository and this same Android Studio
 project** — no separate projects.
